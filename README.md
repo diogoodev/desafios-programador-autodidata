@@ -7,7 +7,7 @@ Bons estudos e feliz codificação!
 
 - Guia
   - [Introdução à Programação](I-introdução-à-programação)
-    - [Capítulo 1](I-introdução-à-programação/capitulo-1/README.md)
+    - [Capítulo 1](I-introdução-à-programação/capitulo-1)
     - [Capítulo 2](I-introdução-à-programação/capitulo-2/README.md)
     - [Capítulo 3](I-introdução-à-programação/capitulo-3/README.md)
     - [Capítulo 4](I-introdução-à-programação/capitulo-4)
