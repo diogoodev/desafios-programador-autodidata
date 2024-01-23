@@ -1,0 +1,18 @@
+# Crie um função que receba uma string como paramentro e a exiba.
+
+user_name = input("Insira seu nome: ")
+print("Olá ",user_name)
+
+# Ou
+
+def name(user_name):
+  return print("", user_name)
+
+name(user_name)
+
+# Ou 
+
+def hi(user):
+  return print("", user)
+
+hi('Olá')
