@@ -1,0 +1,1 @@
+# Adcione uma docstring a todas as funções que escreveu nos desafios 1-5.
