@@ -3,8 +3,13 @@
 
 
 def converte(valor):
+    """
+    :param valor: str.
+    :return: float convertido
+    """
 
     return float(valor)
 
-text = input('Digite um valor: ')
-converte(text)
+peso = input('Digite o seu peso: ')
+
+print(f'O seu peso convertido de string para float é: {converte(peso)}')

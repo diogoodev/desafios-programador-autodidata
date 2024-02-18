@@ -1,6 +1,16 @@
 # 3. Escreva uma função que receba tres parametros obrigatorios e dois parametros opcionais
 
 def form(nome, idade, hobby, pais='Brasil', ano='2024'):
+ """
+    :param nome: str.
+    :param idade: int.
+    :param hobby: str.
+    :param pais: str.
+    :param ano: int.
+    :return: str, int, str, str, int exibe as respostas do formulario.
+
+ """
+
   print("================================================")
   print("Nome: ", nome)
   print("idade: ", idade)
