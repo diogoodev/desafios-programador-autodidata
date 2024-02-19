@@ -2,6 +2,11 @@
 
 
 def quadrado(num):
+    """
+    retorna o valor do quadrado
+    :param num: int.
+    :return: int o valor do quadrado de num
+    """
     return num ** 2
 
 result = quadrado(4)
